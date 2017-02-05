@@ -34,7 +34,7 @@ public class exercice47 {
 			System.out.println(tableau1[i]+"+"+tableau2[i]+"= ?");
 			tableau3[i]=sc.nextInt();
 		}		
-	}	
+	}	 
 	
 	/** Methode permettant de calculer le score, d'afficher les bonnes reponses et le resultat. */
 	public void e47Result(){
